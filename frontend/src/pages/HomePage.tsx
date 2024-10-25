@@ -7,6 +7,7 @@ export default function HomePage() {
       <Link to="/components/navigate/page">Navigate Page</Link>
       <Link to="/components/navigate/section">Navigate Section</Link>
       <Link to="/components/breadcrumb">Breadcrumb</Link>
+      <Link to="/components/countdown">Countdown</Link>
     </div>
   );
 }

@@ -6,6 +6,7 @@ import Navigate from "./components/Navigate";
 import NavigateSection from "./components/Navigate/Section";
 import Breadcrumb from "./pages/Breadcrumb";
 import LocationBasedBreadcrumb from "./components/Breadcrumb/LocationBased";
+import Countdown from "./pages/Countdown";
 
 export const router = createBrowserRouter([
   {
@@ -39,6 +40,10 @@ export const router = createBrowserRouter([
           },
         ],
       },
+      {
+        path: "countdown",
+        element: <Countdown />
+      }
     ],
   },
 ]);
