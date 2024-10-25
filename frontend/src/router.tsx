@@ -7,6 +7,7 @@ import NavigateSection from "./components/Navigate/Section";
 import Breadcrumb from "./pages/Breadcrumb";
 import LocationBasedBreadcrumb from "./components/Breadcrumb/LocationBased";
 import Countdown from "./pages/Countdown";
+import InfiniteScrolling from "./pages/InfiniteScrolling";
 
 export const router = createBrowserRouter([
   {
@@ -43,6 +44,10 @@ export const router = createBrowserRouter([
       {
         path: "countdown",
         element: <Countdown />
+      },
+      {
+        path: "infinite-scrolling",
+        element: <InfiniteScrolling />
       }
     ],
   },
