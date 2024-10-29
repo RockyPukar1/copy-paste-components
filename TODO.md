@@ -12,5 +12,5 @@
 - [ ] active section of content in right sidebar
 - [ ] breadcrumb(location-based/path-based/attribute-based)
   - [Breadcrumb](https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/)
-- [ ] Robush Unsaved changes
+- [ ] Confirm Dialog Box Unsaved changes
   - [Resource](https://medium.com/@serifcolakel/building-a-robust-unsaved-changes-prompt-with-react-and-react-router-dom-24f9157307ca)
