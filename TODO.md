@@ -9,6 +9,7 @@
 - [ ] advanced authorizations with google, github, facebook, etc
 - [ ] light and dark modes
 - [ ] dropdowns for contents in left sidebar
+  - [Resource](https://medium.com/@guilherme.ramalho/creating-a-side-menu-with-section-highlighting-in-react-8247be6c9f56)
 - [ ] active section of content in right sidebar
 - [ ] breadcrumb(location-based/path-based/attribute-based)
   - [Breadcrumb](https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/)
