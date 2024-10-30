@@ -9,6 +9,7 @@ export default function HomePage() {
       <Link to="/components/breadcrumb">Breadcrumb</Link>
       <Link to="/components/countdown">Countdown</Link>
       <Link to="/components/infinite-scrolling">Infinite Scrolling</Link>
+      <Link to="/components/docs">Docs</Link>
     </div>
   );
 }

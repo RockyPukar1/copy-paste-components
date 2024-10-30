@@ -4,6 +4,7 @@ import {
   IConfirmContext,
   Nullable,
 } from "../shared/interfaces/confirmOptions.interface";
+import { Confirm } from "../components/Confirm";
 
 export const ConfirmContext = createContext<Nullable<IConfirmContext>>(null);
 
